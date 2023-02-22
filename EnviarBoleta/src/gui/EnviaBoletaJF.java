@@ -14,10 +14,6 @@ import java.util.logging.Logger;
 import logica.YamlPacket;
 import server.Servidor;
 
-/**
- *
- * @author Daniel Parra
- */
 public class EnviaBoletaJF extends javax.swing.JFrame {
 
     /**
